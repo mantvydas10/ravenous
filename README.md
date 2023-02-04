@@ -1,3 +1,6 @@
+https://user-images.githubusercontent.com/113584830/212670556-4c7411f2-5a3b-4286-b84d-837df18a6225.mp4
+https://user-images.githubusercontent.com/113584830/212671675-2fe21d8b-12bf-4dde-bdf1-64e710e8791b.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,11 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-https://user-images.githubusercontent.com/113584830/212670556-4c7411f2-5a3b-4286-b84d-837df18a6225.mp4
 
-
-
-https://user-images.githubusercontent.com/113584830/212671675-2fe21d8b-12bf-4dde-bdf1-64e710e8791b.mp4
 
 
 
